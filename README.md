@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Karan Bohare
 
-<!--
-**karanbohare/karanbohare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA (Bachelor of Computer Applications – Computer Science) Student**  
+💻 Aspiring Software Developer | Backend & Web Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I am a BCA Computer Science student with a strong interest in programming and software development.  
+I enjoy learning new technologies and building projects that help me understand real-world applications.
+
+I believe in writing clean, simple, and understandable code while continuously improving my problem-solving skills.
+
+---
+
+## 🚀 Skills & Technologies
+
+- **Programming Languages:**  
+  C, C++, Java, Python  
+
+- **Web Technologies:**  
+  HTML, CSS, JavaScript, Node.js, Express.js  
+
+- **Database:**  
+  MySQL  
+
+- **Concepts:**  
+  Data Structures, Algorithms, Backend Development  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Java & Python  
+- Backend Development with Node.js  
+- Database Design & Optimization  
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled **Software Developer** and contribute to impactful projects while continuously learning and growing in the tech industry.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/your-username
+
+---
+
+⭐ *Feel free to explore my repositories and projects!*
