@@ -12,7 +12,9 @@ I enjoy learning new technologies and building projects that help me understand 
 
 I believe in writing clean, simple, and understandable code while continuously improving my problem-solving skills.
 
----
+🎓 BCA Student from Deogiri College, Ch. Sambhaji Nagar
+💻 MCA Learner at BATU University
+🏢 Intern at TFL Pvt Ltd
 
 ## 🚀 Skills & Technologies
 
@@ -47,6 +49,9 @@ To become a skilled **Software Developer** and contribute to impactful projects 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/your-username
+- Email: karanbohare2073@gmail.com
+- contact_no: 9765869164
+- LinkedIn: linkedin.com/in/karanbohare
 
 ---
 
