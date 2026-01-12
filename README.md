@@ -75,8 +75,8 @@ To become a skilled **Software Developer** and contribute to impactful projects 
   - 
 -## 💼 Internship
 - https://github.com/Transflower-Learning
-- **TFL Pvt Ltd** – Learning and working on **real-world projects**  
-- Gaining experience in **Node.js, Express, Database Management, and Web Development**
+- TFL Pvt Ltd– Learning and working on real-world projects 
+- Gaining experience in Node.js, Express, Database Management, and Web Development
 ---
 
 ⭐ *Feel free to explore my repositories and projects!*
