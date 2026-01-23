@@ -67,8 +67,6 @@ To become a skilled **Software Developer** and contribute to impactful projects 
 ---
 
 ##  Connect With Me
-
--  GitHub: https://github.com/your-username
 - Email : karanbohare2073@gmail.com
 - contact_no: 9765869164
 - LinkedIn: Linkedin.https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
