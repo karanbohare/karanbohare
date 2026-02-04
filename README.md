@@ -3,9 +3,8 @@
 🎓 **BCA (Bachelor of Computer Applications – Computer Science) Student**  
 💻 Aspiring Software Developer | Backend & Web Enthusiast
 
----
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
 I am a BCA Computer Science student with a strong interest in programming and software development.  
 I enjoy learning new technologies and building projects that help me understand real-world applications.
@@ -31,7 +30,7 @@ I believe in writing clean, simple, and understandable code while continuously i
   Data Structures, Algorithms, Backend Development  
 
 ---
-### 🛠️ Languages and Tools
+🛠️ Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
@@ -52,7 +51,7 @@ I believe in writing clean, simple, and understandable code while continuously i
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 🌱 Currently Learning
+ 🌱 Currently Learning
 
 - Advanced Java & Python  
 - Backend Development with Node.js  
@@ -66,12 +65,12 @@ To become a skilled **Software Developer** and contribute to impactful projects 
 
 ---
 
-##  Connect With Me
+ Connect With Me
 - Email : karanbohare2073@gmail.com
 - contact_no: 9765869164
 - LinkedIn: Linkedin.https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
   - 
--## 💼 Internship
+  💼 Internship
 - https://github.com/Transflower-Learning
 - 
 - TFL Pvt Ltd– Learning and working on real-world projects 
